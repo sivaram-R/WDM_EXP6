@@ -83,5 +83,7 @@ highest_rank_score = max(result[1] for result in search_results)
 print("The highest rank cosine score is:", highest_rank_score)
 ```
 ### Output:
+![image](https://github.com/user-attachments/assets/a1870d20-8c45-4d2d-b0b8-afed353302eb)
 
 ### Result:
+Thus the implementation Information Retrieval Using Vector Space Model in Python is successfullly executed.
